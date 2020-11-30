@@ -15,8 +15,6 @@ Three Stage Project:
     - income
     - hospitalization rate
 
-- *WANT TO EVENTUALLY CREATE A PREDICTIVE MODEL*
-
 - If successful, plan to move to Part 2 and Part 3 *(Potential master's thesis?)*
 
 2. Adding more confounding factors and performing a comparative study with different provinces in Canada
@@ -37,12 +35,13 @@ Process:
    - visualizations: charts, makes it easy to understand the data
    - learned so far: pandas, numpy, seaborn, matplot lib
    - *still need to learn how to use fastai*
+   - *WANT TO EVENTUALLY CREATE A PREDICTIVE MODEL*
 
 2. Presenting the output:
    - want to present the output in the form of a website made using bootstrap, flask libraries
    - HTML, CSS and Javascript (basic) will be used
    - want to add API with live COVID-19 data around the globe
-   - website deployed on the web through heroku (similar AWS)
+   - website deployed on the web through heroku (similar to AWS)
    - *also want to upload a merged CSV file of all my cleaned data for future use*
 
 Source of dataset collection:
