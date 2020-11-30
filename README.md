@@ -43,7 +43,7 @@ Process:
    - want to present the output in the form of a website made using bootstrap, flask libraries
    - HTML, CSS and Javascript (basic) will be used
    - want to add API with live COVID-19 data around the globe
-   - website deployed on the web through heroku (poor man's version of AWS)
+   - website deployed on the web through heroku (similar AWS)
    - *also want to upload a merged CSV file of all my cleaned data for future use*
 
 Source of dataset collection:
