@@ -14,7 +14,6 @@ Three Stage Project:
     - demographics
     - income
     - hospitalization rate
-    - masks
 
 - *WANT TO EVENTUALLY CREATE A PREDICTIVE MODEL*
 
