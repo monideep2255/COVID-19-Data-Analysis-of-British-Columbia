@@ -53,6 +53,7 @@ Source of dataset collection:
 Latest Problems (November 29, 2020):
 - How do I add my charts and plots from Jupyter notebooks to my website?
 - what do need to do to make a predictive model, right now have a static data, eventually want something like a pivot table that a user can play with
+- since using pandas, a lot of previously written functions are not needed anymore, have an output file, filter data
 
 
 
