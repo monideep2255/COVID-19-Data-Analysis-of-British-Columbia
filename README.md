@@ -51,5 +51,10 @@ Source of dataset collection:
 2. BC COVID-19 dataset (Last updated on November 23, 2020)
 3. COVID-19 healthdata.org
 
+Latest Problems (November 29, 2020):
+- How do I add my charts and plots from Jupyter notebooks to my website?
+- what do need to do to make a predictive model, right now have a static data, eventually want something like a pivot table that a use can play with
+- Should I switch to Anaconda?
+
 
 
