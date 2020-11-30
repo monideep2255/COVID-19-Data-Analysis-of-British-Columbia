@@ -1,0 +1,39 @@
+{% extends "bootstrap/base.html" %}
+
+{% block title %}
+Example Flask Web App
+{% endblock %}
+
+{% block styles %}
+{{super()}}
+<link href="{{ url_for('static',filename='css/style.css') }}" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block navbar %}
+<div class="container-fluid">
+    <nav class="navbar navbar-expand bg-dark navbar-dark">
+        <a class="navbar-brand" href="/">Example Flask App</a>
+        <ul class="navbar-nav">
+            <li class="nav-item active">
+                <a class="nav-link" href="/">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="anotherpage">Another Page</a>
+            </li>
+        </ul>
+    </nav>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{url_for('.static', filename='js/script.js')}}"></script>
+{{super()}}
+{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col">
+        <img src="https://d2guulkeunn7d8.cloudfront.net/assets/homepage/img-shopper-porch-0498fea9e92095733dab48e81635affb8c7013d0e16fcf36105006246187f9d2.jpg" alt="Flowers in Chania" width="100%" height="100%">
+    </div>
+</div>
+{% endblock %}
