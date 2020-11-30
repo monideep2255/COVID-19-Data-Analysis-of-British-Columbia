@@ -11,7 +11,7 @@ Three Stage Project:
 - **For presentation in CS5001 for December 14 and 16, will be working on Part 1**
 
 1. Recreating British Columbia COVID-19 model and analyzing any correlation with confounding factors such as:
-    - demographics
+    - demographics (age, gender, residence)
     - income
     - hospitalization rate
 
