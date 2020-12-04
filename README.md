@@ -56,5 +56,31 @@ Latest Problems (November 29, 2020):
 - want to have an output file, filter data
 
 
+Latest Update (Decemeber 2, 2020):
+- How do I add my charts and plots from Jupyter notebooks to my website? 
+   - Thinking about saving plots as images and uploading them on the website 
+- since using pandas, a lot of previously written functions are not needed anymore, use different ways to use functions
+   - Write the code for the filter data along with the pandas analysis
+   - use the matplot lib for the graphs
+   - In the final product will have own code as well as pandas code
+- API about live covid data, news feed on the website homepage, write the python code, try/except (defensive coding), csv file
+- Can I have something like an HTML form where a user can filter out the data they are interested in?
+   - Filtered data, written to file
+   - How do I get it to download
+- Lastly, upload entire merged data (csv file) on the website that is for future purposes
+- GOAL OF PROJECT: Able to use what is learnt in the course CS5001 and start something, not perfect it, **BE REALISTIC**
+
+**Winter Break and 2021 Plans**
+
+*- What do need to do to make a predictive model, right now have a static data, eventually want something like a pivot table that a user can play with*
+   *- sample website: IHME covid-19 website*
+   *- Predictive model out of scope right now for the next two weeks, presentation on Decmeber 16*
+   *- Plan to learn it over the winter break!*
+   *- Carry out the prject over the next year*
+   *- Will be able to add the vaccine implementation as well in the future*
+   *- Learn about the ML from fast ai*
+
+
+
 
 
