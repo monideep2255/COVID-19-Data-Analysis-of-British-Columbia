@@ -2524,8 +2524,8 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 2523,24/05/20,Fraser,F,50-59,Lab-diagnosed
 2524,24/05/20,Fraser,F,40-49,Lab-diagnosed
 2525,24/05/20,Vancouver Coastal,M,20-29,Lab-diagnosed
-2526,24/05/20,Out of Canada,U,Unknown,Lab-diagnosed
-2527,24/05/20,Out of Canada,U,Unknown,Lab-diagnosed
+2526,24/05/20,Out of Canada,U,60-69,Lab-diagnosed
+2527,24/05/20,Out of Canada,U,60-69,Lab-diagnosed
 2528,25/05/20,Fraser,F,30-39,Lab-diagnosed
 2529,25/05/20,Fraser,M,20-29,Lab-diagnosed
 2530,25/05/20,Fraser,F,40-49,Lab-diagnosed
@@ -2705,7 +2705,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 2704,11/06/20,Fraser,F,50-59,Lab-diagnosed
 2705,11/06/20,Fraser,M,30-39,Lab-diagnosed
 2706,11/06/20,Fraser,F,40-49,Lab-diagnosed
-2707,11/06/20,Out of Canada,U,Unknown,Lab-diagnosed
+2707,11/06/20,Out of Canada,U,60-69,Lab-diagnosed
 2708,12/06/20,Vancouver Coastal,F,70-79,Lab-diagnosed
 2709,12/06/20,Fraser,F,70-79,Lab-diagnosed
 2710,12/06/20,Fraser,M,50-59,Lab-diagnosed
@@ -2875,7 +2875,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 2874,25/06/20,Fraser,M,40-49,Lab-diagnosed
 2875,25/06/20,Fraser,F,20-29,Lab-diagnosed
 2876,25/06/20,Fraser,M,20-29,Lab-diagnosed
-2877,26/06/20,Out of Canada,U,Unknown,Lab-diagnosed
+2877,26/06/20,Out of Canada,U,60-69,Lab-diagnosed
 2878,26/06/20,Fraser,M,60-69,Lab-diagnosed
 2879,26/06/20,Fraser,M,30-39,Lab-diagnosed
 2880,26/06/20,Fraser,F,20-29,Lab-diagnosed
@@ -3209,8 +3209,8 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 3208,16/07/20,Interior,M,50-59,Lab-diagnosed
 3209,16/07/20,Interior,F,20-29,Lab-diagnosed
 3210,17/07/20,Vancouver Coastal,F,20-29,Lab-diagnosed
-3211,17/07/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-3212,17/07/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+3211,17/07/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+3212,17/07/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 3213,17/07/20,Vancouver Coastal,F,50-59,Lab-diagnosed
 3214,17/07/20,Vancouver Coastal,M,40-49,Lab-diagnosed
 3215,17/07/20,Fraser,M,30-39,Lab-diagnosed
@@ -3429,7 +3429,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 3428,23/07/20,Interior,M,20-29,Lab-diagnosed
 3429,23/07/20,Vancouver Coastal,F,20-29,Lab-diagnosed
 3430,23/07/20,Interior,F,30-39,Epi-linked
-3431,24/07/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+3431,24/07/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 3432,24/07/20,Vancouver Coastal,F,20-29,Lab-diagnosed
 3433,24/07/20,Fraser,F,40-49,Lab-diagnosed
 3434,24/07/20,Fraser,F,30-39,Lab-diagnosed
@@ -3529,7 +3529,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 3528,28/07/20,Interior,F,50-59,Lab-diagnosed
 3529,28/07/20,Interior,F,60-69,Lab-diagnosed
 3530,28/07/20,Interior,M,50-59,Lab-diagnosed
-3531,28/07/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+3531,28/07/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 3532,28/07/20,Fraser,M,30-39,Lab-diagnosed
 3533,28/07/20,Fraser,F,50-59,Lab-diagnosed
 3534,28/07/20,Fraser,F,40-49,Lab-diagnosed
@@ -3642,11 +3642,11 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 3641,31/07/20,Vancouver Coastal,F,30-39,Lab-diagnosed
 3642,31/07/20,Out of Canada,M,30-39,Lab-diagnosed
 3643,31/07/20,Out of Canada,M,50-59,Lab-diagnosed
-3644,31/07/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-3645,31/07/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+3644,31/07/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+3645,31/07/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 3646,31/07/20,Vancouver Coastal,M,40-49,Lab-diagnosed
-3647,31/07/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-3648,31/07/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+3647,31/07/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+3648,31/07/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 3649,31/07/20,Vancouver Coastal,F,20-29,Lab-diagnosed
 3650,31/07/20,Fraser,M,40-49,Lab-diagnosed
 3651,31/07/20,Fraser,M,50-59,Lab-diagnosed
@@ -3688,7 +3688,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 3687,31/07/20,Vancouver Coastal,M,30-39,Lab-diagnosed
 3688,31/07/20,Interior,F,20-29,Epi-linked
 3689,31/07/20,Interior,M,20-29,Epi-linked
-3690,31/07/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+3690,31/07/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 3691,01/08/20,Vancouver Coastal,M,20-29,Lab-diagnosed
 3692,01/08/20,Vancouver Coastal,M,40-49,Lab-diagnosed
 3693,01/08/20,Fraser,F,40-49,Lab-diagnosed
@@ -5515,7 +5515,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 5514,28/08/20,Vancouver Coastal,M,30-39,Lab-diagnosed
 5515,28/08/20,Vancouver Coastal,M,30-39,Lab-diagnosed
 5516,28/08/20,Vancouver Coastal,M,30-39,Lab-diagnosed
-5517,28/08/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+5517,28/08/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 5518,28/08/20,Fraser,M,50-59,Lab-diagnosed
 5519,28/08/20,Fraser,M,50-59,Lab-diagnosed
 5520,28/08/20,Fraser,M,80-89,Lab-diagnosed
@@ -5606,7 +5606,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 5605,28/08/20,Vancouver Coastal,M,20-29,Lab-diagnosed
 5606,29/08/20,Vancouver Coastal,F,20-29,Lab-diagnosed
 5607,29/08/20,Vancouver Coastal,F,20-29,Lab-diagnosed
-5608,29/08/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+5608,29/08/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 5609,29/08/20,Vancouver Coastal,F,30-39,Lab-diagnosed
 5610,29/08/20,Vancouver Coastal,F,20-29,Lab-diagnosed
 5611,29/08/20,Fraser,F,30-39,Lab-diagnosed
@@ -5719,7 +5719,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 5718,29/08/20,Northern,F,50-59,Lab-diagnosed
 5719,29/08/20,Vancouver Coastal,M,40-49,Lab-diagnosed
 5720,30/08/20,Vancouver Coastal,F,30-39,Lab-diagnosed
-5721,30/08/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+5721,30/08/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 5722,30/08/20,Vancouver Coastal,M,20-29,Lab-diagnosed
 5723,30/08/20,Vancouver Coastal,F,0-9,Lab-diagnosed
 5724,30/08/20,Vancouver Coastal,F,30-39,Lab-diagnosed
@@ -5824,7 +5824,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 5823,31/08/20,Vancouver Coastal,F,20-29,Lab-diagnosed
 5824,31/08/20,Vancouver Coastal,F,20-29,Lab-diagnosed
 5825,31/08/20,Vancouver Coastal,F,30-39,Lab-diagnosed
-5826,31/08/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+5826,31/08/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 5827,31/08/20,Vancouver Coastal,F,40-49,Lab-diagnosed
 5828,31/08/20,Vancouver Coastal,F,40-49,Lab-diagnosed
 5829,31/08/20,Fraser,F,30-39,Lab-diagnosed
@@ -6065,7 +6065,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 6064,03/09/20,Vancouver Coastal,F,20-29,Lab-diagnosed
 6065,03/09/20,Vancouver Coastal,M,20-29,Lab-diagnosed
 6066,03/09/20,Vancouver Coastal,F,0-9,Lab-diagnosed
-6067,03/09/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+6067,03/09/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 6068,03/09/20,Vancouver Coastal,F,30-39,Lab-diagnosed
 6069,03/09/20,Vancouver Coastal,F,30-39,Lab-diagnosed
 6070,03/09/20,Vancouver Coastal,F,20-29,Lab-diagnosed
@@ -6076,7 +6076,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 6075,03/09/20,Vancouver Coastal,F,50-59,Lab-diagnosed
 6076,03/09/20,Vancouver Coastal,F,20-29,Lab-diagnosed
 6077,03/09/20,Vancouver Coastal,M,60-69,Lab-diagnosed
-6078,03/09/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+6078,03/09/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 6079,03/09/20,Vancouver Coastal,M,30-39,Lab-diagnosed
 6080,03/09/20,Vancouver Coastal,M,40-49,Lab-diagnosed
 6081,03/09/20,Vancouver Coastal,F,0-9,Lab-diagnosed
@@ -7351,7 +7351,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 7350,14/09/20,Vancouver Coastal,F,20-29,Lab-diagnosed
 7351,14/09/20,Vancouver Coastal,M,60-69,Lab-diagnosed
 7352,14/09/20,Vancouver Coastal,F,20-29,Lab-diagnosed
-7353,14/09/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+7353,14/09/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 7354,14/09/20,Vancouver Coastal,M,40-49,Lab-diagnosed
 7355,14/09/20,Vancouver Coastal,M,20-29,Lab-diagnosed
 7356,14/09/20,Vancouver Coastal,M,30-39,Lab-diagnosed
@@ -7565,9 +7565,9 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 7564,16/09/20,Vancouver Coastal,M,20-29,Lab-diagnosed
 7565,16/09/20,Vancouver Coastal,M,40-49,Lab-diagnosed
 7566,16/09/20,Vancouver Coastal,M,30-39,Lab-diagnosed
-7567,16/09/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-7568,16/09/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-7569,16/09/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+7567,16/09/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+7568,16/09/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+7569,16/09/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 7570,16/09/20,Vancouver Coastal,M,30-39,Lab-diagnosed
 7571,16/09/20,Vancouver Coastal,M,30-39,Lab-diagnosed
 7572,16/09/20,Vancouver Coastal,F,20-29,Lab-diagnosed
@@ -7697,7 +7697,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 7696,16/09/20,Vancouver Coastal,M,30-39,Lab-diagnosed
 7697,16/09/20,Vancouver Coastal,F,50-59,Lab-diagnosed
 7698,16/09/20,Vancouver Coastal,U,20-29,Lab-diagnosed
-7699,16/09/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+7699,16/09/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 7700,16/09/20,Interior,F,30-39,Lab-diagnosed
 7701,16/09/20,Interior,M,70-79,Lab-diagnosed
 7702,16/09/20,Vancouver Coastal,M,20-29,Lab-diagnosed
@@ -8228,7 +8228,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 8227,20/09/20,Interior,M,30-39,Lab-diagnosed
 8228,20/09/20,Interior,F,30-39,Lab-diagnosed
 8229,21/09/20,Northern,F,40-49,Lab-diagnosed
-8230,21/09/20,Northern,F,Unknown,Lab-diagnosed
+8230,21/09/20,Northern,F,60-69,Lab-diagnosed
 8231,21/09/20,Northern,M,40-49,Lab-diagnosed
 8232,21/09/20,Northern,M,50-59,Lab-diagnosed
 8233,21/09/20,Northern,M,70-79,Lab-diagnosed
@@ -8727,11 +8727,11 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 8726,26/09/20,Vancouver Coastal,M,30-39,Lab-diagnosed
 8727,26/09/20,Vancouver Coastal,F,70-79,Lab-diagnosed
 8728,26/09/20,Vancouver Coastal,F,30-39,Lab-diagnosed
-8729,26/09/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8729,26/09/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 8730,26/09/20,Vancouver Coastal,M,30-39,Lab-diagnosed
 8731,26/09/20,Vancouver Coastal,F,70-79,Lab-diagnosed
 8732,26/09/20,Vancouver Coastal,F,20-29,Lab-diagnosed
-8733,26/09/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8733,26/09/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 8734,26/09/20,Fraser,F,60-69,Lab-diagnosed
 8735,26/09/20,Fraser,M,30-39,Lab-diagnosed
 8736,26/09/20,Fraser,M,40-49,Lab-diagnosed
@@ -9602,7 +9602,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 9601,03/10/20,Vancouver Coastal,M,40-49,Lab-diagnosed
 9602,03/10/20,Vancouver Coastal,M,30-39,Lab-diagnosed
 9603,03/10/20,Vancouver Coastal,F,80-89,Lab-diagnosed
-9604,03/10/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+9604,03/10/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 9605,03/10/20,Vancouver Coastal,M,20-29,Lab-diagnosed
 9606,03/10/20,Vancouver Coastal,M,20-29,Lab-diagnosed
 9607,03/10/20,Vancouver Coastal,M,20-29,Lab-diagnosed
@@ -9621,7 +9621,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 9620,03/10/20,Interior,F,80-89,Lab-diagnosed
 9621,03/10/20,Interior,F,30-39,Lab-diagnosed
 9622,03/10/20,Interior,F,50-59,Lab-diagnosed
-9623,04/10/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+9623,04/10/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 9624,04/10/20,Fraser,M,60-69,Lab-diagnosed
 9625,04/10/20,Fraser,M,40-49,Lab-diagnosed
 9626,04/10/20,Fraser,M,70-79,Lab-diagnosed
@@ -10038,7 +10038,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 10037,07/10/20,Vancouver Coastal,F,30-39,Lab-diagnosed
 10038,07/10/20,Vancouver Coastal,F,50-59,Lab-diagnosed
 10039,07/10/20,Vancouver Coastal,M,50-59,Lab-diagnosed
-10040,07/10/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+10040,07/10/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 10041,07/10/20,Vancouver Coastal,F,50-59,Lab-diagnosed
 10042,07/10/20,Vancouver Coastal,M,20-29,Lab-diagnosed
 10043,07/10/20,Vancouver Coastal,M,40-49,Lab-diagnosed
@@ -12053,7 +12053,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 12052,20/10/20,Vancouver Coastal,F,50-59,Lab-diagnosed
 12053,20/10/20,Vancouver Coastal,M,60-69,Lab-diagnosed
 12054,20/10/20,Vancouver Coastal,M,20-29,Lab-diagnosed
-12055,20/10/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+12055,20/10/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 12056,20/10/20,Vancouver Coastal,M,30-39,Lab-diagnosed
 12057,20/10/20,Vancouver Coastal,F,50-59,Lab-diagnosed
 12058,20/10/20,Vancouver Coastal,F,40-49,Lab-diagnosed
@@ -12576,7 +12576,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 12575,22/10/20,Vancouver Coastal,F,50-59,Lab-diagnosed
 12576,22/10/20,Vancouver Coastal,F,20-29,Lab-diagnosed
 12577,23/10/20,Vancouver Coastal,F,60-69,Lab-diagnosed
-12578,23/10/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+12578,23/10/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 12579,23/10/20,Fraser,M,50-59,Lab-diagnosed
 12580,23/10/20,Fraser,F,30-39,Lab-diagnosed
 12581,23/10/20,Fraser,F,60-69,Lab-diagnosed
@@ -14402,7 +14402,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 14401,30/10/20,Northern,M,50-59,Lab-diagnosed
 14402,30/10/20,Northern,M,40-49,Lab-diagnosed
 14403,30/10/20,Vancouver Coastal,F,90-99,Lab-diagnosed
-14404,30/10/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+14404,30/10/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 14405,30/10/20,Vancouver Coastal,M,40-49,Lab-diagnosed
 14406,30/10/20,Fraser,F,0-9,Lab-diagnosed
 14407,30/10/20,Fraser,M,20-29,Lab-diagnosed
@@ -15813,7 +15813,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 15812,03/11/20,Vancouver Coastal,F,30-39,Lab-diagnosed
 15813,03/11/20,Northern,M,40-49,Lab-diagnosed
 15814,03/11/20,Vancouver Coastal,M,20-29,Lab-diagnosed
-15815,03/11/20,Vancouver Coastal,U,Unknown,Epi-linked
+15815,03/11/20,Vancouver Coastal,U,60-69,Epi-linked
 15816,03/11/20,Vancouver Coastal,M,50-59,Lab-diagnosed
 15817,03/11/20,Vancouver Coastal,F,40-49,Lab-diagnosed
 15818,03/11/20,Vancouver Coastal,M,40-49,Lab-diagnosed
@@ -16104,7 +16104,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 16103,03/11/20,Vancouver Coastal,F,30-39,Lab-diagnosed
 16104,03/11/20,Vancouver Coastal,F,20-29,Lab-diagnosed
 16105,03/11/20,Vancouver Coastal,F,50-59,Lab-diagnosed
-16106,03/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+16106,03/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 16107,03/11/20,Vancouver Coastal,M,30-39,Lab-diagnosed
 16108,03/11/20,Vancouver Coastal,M,30-39,Lab-diagnosed
 16109,03/11/20,Vancouver Coastal,F,0-9,Lab-diagnosed
@@ -16128,7 +16128,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 16127,03/11/20,Vancouver Coastal,F,50-59,Lab-diagnosed
 16128,03/11/20,Vancouver Coastal,F,30-39,Lab-diagnosed
 16129,03/11/20,Vancouver Coastal,M,20-29,Lab-diagnosed
-16130,03/11/20,Vancouver Coastal,U,Unknown,Epi-linked
+16130,03/11/20,Vancouver Coastal,U,60-69,Epi-linked
 16131,03/11/20,Interior,F,20-29,Lab-diagnosed
 16132,03/11/20,Interior,M,40-49,Lab-diagnosed
 16133,03/11/20,Vancouver Coastal,M,20-29,Lab-diagnosed
@@ -16611,7 +16611,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 16610,05/11/20,Vancouver Coastal,M,50-59,Lab-diagnosed
 16611,05/11/20,Vancouver Coastal,M,20-29,Lab-diagnosed
 16612,05/11/20,Vancouver Coastal,F,20-29,Lab-diagnosed
-16613,05/11/20,Vancouver Coastal,U,Unknown,Epi-linked
+16613,05/11/20,Vancouver Coastal,U,60-69,Epi-linked
 16614,05/11/20,Vancouver Coastal,F,60-69,Lab-diagnosed
 16615,05/11/20,Vancouver Coastal,F,60-69,Lab-diagnosed
 16616,05/11/20,Vancouver Coastal,M,40-49,Lab-diagnosed
@@ -16632,7 +16632,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 16631,05/11/20,Vancouver Coastal,F,20-29,Lab-diagnosed
 16632,05/11/20,Vancouver Coastal,M,80-89,Lab-diagnosed
 16633,05/11/20,Vancouver Coastal,M,50-59,Lab-diagnosed
-16634,05/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+16634,05/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 16635,05/11/20,Vancouver Coastal,M,20-29,Lab-diagnosed
 16636,05/11/20,Vancouver Coastal,F,50-59,Lab-diagnosed
 16637,05/11/20,Vancouver Coastal,F,30-39,Lab-diagnosed
@@ -22360,7 +22360,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 22359,15/11/20,Vancouver Coastal,M,60-69,Lab-diagnosed
 22360,15/11/20,Vancouver Coastal,F,30-39,Lab-diagnosed
 22361,15/11/20,Vancouver Coastal,M,40-49,Lab-diagnosed
-22362,15/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+22362,15/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 22363,15/11/20,Fraser,F,50-59,Lab-diagnosed
 22364,15/11/20,Fraser,F,30-39,Lab-diagnosed
 22365,15/11/20,Fraser,F,0-9,Lab-diagnosed
@@ -22898,7 +22898,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 22897,15/11/20,Vancouver Coastal,F,40-49,Lab-diagnosed
 22898,15/11/20,Vancouver Coastal,F,90-99,Lab-diagnosed
 22899,15/11/20,Vancouver Coastal,M,20-29,Lab-diagnosed
-22900,15/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+22900,15/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 22901,15/11/20,Vancouver Coastal,F,40-49,Lab-diagnosed
 22902,15/11/20,Vancouver Coastal,M,30-39,Lab-diagnosed
 22903,15/11/20,Vancouver Coastal,F,50-59,Lab-diagnosed
@@ -22936,7 +22936,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 22935,15/11/20,Interior,F,40-49,Lab-diagnosed
 22936,15/11/20,Vancouver Coastal,M,20-29,Lab-diagnosed
 22937,15/11/20,Vancouver Coastal,M,60-69,Lab-diagnosed
-22938,15/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+22938,15/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 22939,15/11/20,Interior,M,20-29,Lab-diagnosed
 22940,15/11/20,Interior,F,20-29,Lab-diagnosed
 22941,15/11/20,Interior,F,20-29,Lab-diagnosed
@@ -23679,7 +23679,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 23678,17/11/20,Northern,F,50-59,Lab-diagnosed
 23679,17/11/20,Northern,M,50-59,Lab-diagnosed
 23680,17/11/20,Vancouver Coastal,F,20-29,Lab-diagnosed
-23681,17/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+23681,17/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 23682,17/11/20,Vancouver Coastal,F,30-39,Lab-diagnosed
 23683,17/11/20,Vancouver Coastal,M,30-39,Lab-diagnosed
 23684,17/11/20,Vancouver Coastal,F,40-49,Lab-diagnosed
@@ -24378,7 +24378,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 24377,17/11/20,Vancouver Island,M,50-59,Lab-diagnosed
 24378,17/11/20,Vancouver Island,F,20-29,Lab-diagnosed
 24379,17/11/20,Vancouver Island,F,30-39,Lab-diagnosed
-24380,17/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+24380,17/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 24381,17/11/20,Fraser,M,30-39,Lab-diagnosed
 24382,17/11/20,Interior,F,40-49,Lab-diagnosed
 24383,17/11/20,Interior,M,0-9,Lab-diagnosed
@@ -24431,10 +24431,10 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 24430,18/11/20,Vancouver Coastal,M,50-59,Lab-diagnosed
 24431,18/11/20,Vancouver Coastal,F,30-39,Lab-diagnosed
 24432,18/11/20,Vancouver Coastal,M,0-9,Lab-diagnosed
-24433,18/11/20,Northern,U,Unknown,Epi-linked
+24433,18/11/20,Northern,U,60-69,Epi-linked
 24434,18/11/20,Northern,M,40-49,Epi-linked
 24435,18/11/20,Northern,F,50-59,Epi-linked
-24436,18/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+24436,18/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 24437,18/11/20,Vancouver Coastal,M,60-69,Lab-diagnosed
 24438,18/11/20,Vancouver Coastal,F,30-39,Lab-diagnosed
 24439,18/11/20,Vancouver Coastal,M,30-39,Lab-diagnosed
@@ -24987,7 +24987,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 24986,19/11/20,Vancouver Coastal,M,40-49,Lab-diagnosed
 24987,19/11/20,Vancouver Coastal,F,40-49,Lab-diagnosed
 24988,19/11/20,Vancouver Coastal,F,90-99,Lab-diagnosed
-24989,19/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+24989,19/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 24990,19/11/20,Vancouver Coastal,M,20-29,Lab-diagnosed
 24991,19/11/20,Vancouver Coastal,F,30-39,Lab-diagnosed
 24992,19/11/20,Vancouver Coastal,M,20-29,Lab-diagnosed
@@ -25003,7 +25003,7 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 25002,19/11/20,Vancouver Coastal,M,30-39,Lab-diagnosed
 25003,19/11/20,Vancouver Coastal,F,40-49,Lab-diagnosed
 25004,19/11/20,Vancouver Coastal,F,30-39,Lab-diagnosed
-25005,19/11/20,Vancouver Coastal,M,Unknown,Lab-diagnosed
+25005,19/11/20,Vancouver Coastal,M,60-69,Lab-diagnosed
 25006,19/11/20,Vancouver Coastal,M,0-9,Lab-diagnosed
 25007,19/11/20,Vancouver Coastal,M,60-69,Lab-diagnosed
 25008,19/11/20,Vancouver Coastal,F,30-39,Lab-diagnosed
@@ -25489,8 +25489,8 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 25488,20/11/20,Vancouver Coastal,F,40-49,Lab-diagnosed
 25489,20/11/20,Vancouver Coastal,F,60-69,Lab-diagnosed
 25490,20/11/20,Vancouver Coastal,F,60-69,Lab-diagnosed
-25491,20/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-25492,20/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+25491,20/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+25492,20/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 25493,20/11/20,Fraser,M,20-29,Lab-diagnosed
 25494,20/11/20,Fraser,M,40-49,Lab-diagnosed
 25495,20/11/20,Fraser,M,50-59,Lab-diagnosed
@@ -26184,8 +26184,8 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 26183,20/11/20,Vancouver Coastal,M,20-29,Lab-diagnosed
 26184,20/11/20,Vancouver Coastal,F,20-29,Lab-diagnosed
 26185,21/11/20,Fraser,M,20-29,Lab-diagnosed
-26186,21/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26187,21/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+26186,21/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26187,21/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 26188,21/11/20,Fraser,M,80-89,Lab-diagnosed
 26189,21/11/20,Fraser,F,50-59,Lab-diagnosed
 26190,21/11/20,Fraser,F,60-69,Lab-diagnosed
@@ -26807,30 +26807,30 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 26806,21/11/20,Vancouver Coastal,F,20-29,Lab-diagnosed
 26807,21/11/20,Vancouver Coastal,M,40-49,Lab-diagnosed
 26808,21/11/20,Vancouver Coastal,M,80-89,Lab-diagnosed
-26809,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26810,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26811,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26812,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26813,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26814,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26815,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26816,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26817,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26818,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26819,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26820,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26821,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26822,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26823,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26824,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26825,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26826,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26827,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26828,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26829,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26830,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26831,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-26832,22/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+26809,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26810,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26811,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26812,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26813,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26814,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26815,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26816,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26817,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26818,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26819,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26820,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26821,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26822,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26823,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26824,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26825,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26826,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26827,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26828,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26829,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26830,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26831,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+26832,22/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 26833,22/11/20,Fraser,F,90-99,Lab-diagnosed
 26834,22/11/20,Fraser,F,70-79,Lab-diagnosed
 26835,22/11/20,Fraser,F,30-39,Lab-diagnosed
@@ -27394,14 +27394,14 @@ Covid_Cases,Reported_Date,Place,Sex,Age_Group,Classification_Reported
 27393,22/11/20,Vancouver Coastal,F,20-29,Lab-diagnosed
 27394,22/11/20,Vancouver Coastal,M,30-39,Lab-diagnosed
 27395,22/11/20,Vancouver Coastal,F,70-79,Lab-diagnosed
-27396,23/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-27397,23/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-27398,23/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-27399,23/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-27400,23/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-27401,23/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-27402,23/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
-27403,23/11/20,Vancouver Coastal,U,Unknown,Lab-diagnosed
+27396,23/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+27397,23/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+27398,23/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+27399,23/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+27400,23/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+27401,23/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+27402,23/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
+27403,23/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 27404,23/11/20,Vancouver Coastal,M,90-99,Lab-diagnosed
 27405,23/11/20,Vancouver Coastal,U,60-69,Lab-diagnosed
 27406,23/11/20,Vancouver Coastal,F,90-99,Lab-diagnosed
