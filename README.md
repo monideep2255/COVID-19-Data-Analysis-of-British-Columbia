@@ -11,9 +11,9 @@ Three Stage Project:
 - **For presentation in CS5001 for December 14 and 16, will be working on Part 1**
 
 1. Recreating British Columbia COVID-19 model and analyzing any correlation with confounding factors such as:
-    - demographics (age, gender, residence)
-    - income
-    - hospitalization rate
+    - demographics (age, gender, residence) : main focus for projects
+    - income : datasets were missing values, poor quality
+    - hospitalization rate : datasets were missing values, poor quality
 
 - If successful, plan to move to Part 2 and Part 3 *(Potential master's thesis?)*
 
@@ -70,7 +70,11 @@ Latest Update (Decemeber 2, 2020):
 - Lastly, upload entire merged data (csv file) on the website that is for future purposes
 - GOAL OF PROJECT: Able to use what is learnt in the course CS5001 and start something, not perfect it, **BE REALISTIC**
 
-**Winter Break and 2021 Plans**
+Plan for December 6, 2020:
+- Work on the data analysis part: own code and working with pandas
+- html forms? filter function when the user asks for some information?
+
+## Winter Break and 2021 Plans
 
 *- What do need to do to make a predictive model, right now have a static data, eventually want something like a pivot table that a user can play with*
    *- sample website: IHME covid-19 website*
