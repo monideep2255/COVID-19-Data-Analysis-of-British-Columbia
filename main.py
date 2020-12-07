@@ -30,15 +30,16 @@ def main():
 
         while option < 0 or option > 5:
             print("Invalid option")
+            main()
             
-            print('0. Quit\n'
-            '1. Search by Date\n'
-            '2. Search by Age\n'
-            '3. Search by Region\n'
-            '4. Search by Gender\n'
-            '5. Search between dates')
+            #print('0. Quit\n'
+            #'1. Search by Date\n'
+            #'2. Search by Age\n'
+            #'3. Search by Region\n'
+            #'4. Search by Gender\n'
+            #'5. Search between dates')
 
-            option = int(input("Option:\n "))
+            #option = int(input("Option:\n "))
             
 
     
