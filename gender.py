@@ -1,13 +1,19 @@
 import csv
 
 def searchbygender():
-    gender = input('Enter the gender for COVID-19 cases you are looking for:\n ')
-    csv_file =csv.reader(open('BCCase_Details.csv','r'))
+    gender = input('Enter the gender(M/F):\n ')
+    question = input('Do you want to print or write to a CSV file (enter p or c)?')
 
-    for row in csv_file:
-        if gender == row[3]:
-            print(row)
-        else:
-            break
+    with open('BCCase_Details.csv','r') as csvfile:
+        csvfilereader = csv.reader(csvfile)
+        
+        
+        with open('specific_gender.csv','w') as new_file:
+            csv_writer = csv.writer(new_file)
 
-    csv_file.close()
+            for row in csvfilereader:
+                if gender == row[3]:
+                    if question == 'p':
+                        print(row)
+                    else:
+                        csv_writer.writerow(row)

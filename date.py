@@ -1,13 +1,21 @@
 import csv
 
 def searchbydate():
-    date= input('Enter the date for COVID-19 cases you are looking for:\n ')
-    csv_file =csv.reader(open('BCCase_Details.csv','r'))
+    date = input('Enter the specific date(DD/MM/YY):\n ')
+    question = input('Do you want to print or write to a CSV file (enter p or c)?')
 
-    for row in csv_file:
-        if date == row[1]:
-            print(row)
-        else:
-            break
+    with open('BCCase_Details.csv','r') as csvfile:
+        csvfilereader = csv.reader(csvfile)
+        
+        
+        with open('specific_date.csv','w') as new_file:
+            csv_writer = csv.writer(new_file)
 
-    csv_file.close()
+            for row in csvfilereader:
+                if date == row[1]:
+                    if question == 'p':
+                        print(row)
+                    else:
+                        csv_writer.writerow(row)
+
+   
