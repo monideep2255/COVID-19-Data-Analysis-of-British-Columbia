@@ -9,14 +9,14 @@ def makefiles():
     #parameter
     #return
 
-    with open('BCCase_Details.csv','r') as csvfile:
+    with open('datasets/BCCase_Details.csv','r') as csvfile:
             csvfilereader = csv.reader(csvfile)
             
             #for row in csvfilereader:
                 #print(row)
                 #a = row[4].count('20-29')
                 #print(a)
-            with open('filterage.csv','w') as new_file:
+            with open('datasets/filterage.csv','w') as new_file:
                 csv_writer = csv.writer(new_file, delimiter=' ')
 
                 for row in csvfilereader:
@@ -28,10 +28,10 @@ def makefiles_one():
     #parameter
     #return
 
-    with open('BCCase_Details.csv','r') as csvfile:
+    with open('datasets/BCCase_Details.csv','r') as csvfile:
             csvfilereader = csv.reader(csvfile)
 
-            with open('filtergender.csv','w') as new_file:
+            with open('datasets/filtergender.csv','w') as new_file:
                 csv_writer = csv.writer(new_file, delimiter =' ')
 
                 for row in csvfilereader:
@@ -42,10 +42,10 @@ def makefiles_two():
     #parameter
     #return
 
-    with open('BCCase_Details.csv','r') as csvfile:
+    with open('datasets/BCCase_Details.csv','r') as csvfile:
             csvfilereader = csv.reader(csvfile)
 
-            with open('filterplace.csv','w') as new_file:
+            with open('datasets/filterplace.csv','w') as new_file:
                 csv_writer = csv.writer(new_file, delimiter =' ')
 
                 for row in csvfilereader:

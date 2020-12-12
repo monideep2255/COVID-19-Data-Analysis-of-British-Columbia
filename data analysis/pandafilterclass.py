@@ -12,7 +12,7 @@ class Files:
         #parameter
         #return
 
-        with open('BCCase_Details.csv','r') as csvfile:
+        with open('datasets/BCCase_Details.csv','r') as csvfile:
                 csvfilereader = csv.reader(csvfile)
 
                 with open(self.file,'w') as new_file:
@@ -23,11 +23,11 @@ class Files:
 
 
 def main():
-    age = Files('filterage1.csv', 4)
+    age = Files('datasets/filterage1.csv', 4)
     age.makefiles()
-    gender = Files('filtergender1.csv', 3)
+    gender = Files('datasets/filtergender1.csv', 3)
     gender.makefiles()
-    place = Files('filterplace1.csv', 2)
+    place = Files('datasets/filterplace1.csv', 2)
     place.makefiles()
 
 if __name__ == '__main__':
