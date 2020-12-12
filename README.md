@@ -76,8 +76,14 @@ Plan for December 6, 2020:
 
 ### Latest Update (December 11, 2020):
 -Successfully completed the filter function, unable to connect it to HTML
-
-
+-Successfully build the API
+-Have to abort the plan to connect with HTML **for now**
+-Resolved the issue of images not showing up
+-Only thing left: 
+  - filter for datasets so that I do not need pandas
+  - experimental: recursion(decision trees), classes
+  - make list of course topics covered
+  - libraries covered
 
 ## Winter Break and 2021 Plans
 
