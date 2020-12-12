@@ -1,18 +1,18 @@
 import csv
 
-def searchbyage():
-    age = input('Enter the age group (0-19, 20-29, 30-39, 40-49, 50-59, 60-69, 70-79, 80-89, 90-99):\n ')
+def searchbygender():
+    gender = input('Enter the gender(M/F):\n ')
     question = input('Do you want to print or write to a CSV file (enter p or c)?')
 
-    with open('BCCase_Details.csv','r') as csvfile:
+    with open('datasets/BCCase_Details.csv','r') as csvfile:
         csvfilereader = csv.reader(csvfile)
         
         
-        with open('specific_age.csv','w') as new_file:
+        with open('datasets/specific_gender.csv','w') as new_file:
             csv_writer = csv.writer(new_file)
 
             for row in csvfilereader:
-                if age == row[4]:
+                if gender == row[3]:
                     if question == 'p':
                         print(row)
                     else:

@@ -49,14 +49,14 @@ Source of dataset collection:
 2. BC COVID-19 dataset (Last updated on November 23, 2020)
 3. COVID-19 healthdata.org
 
-Latest Problems (November 29, 2020):
+### Latest Problems (November 29, 2020):
 - How do I add my charts and plots from Jupyter notebooks to my website?
 - what do need to do to make a predictive model, right now have a static data, eventually want something like a pivot table that a user can play with
 - since using pandas, a lot of previously written functions are not needed anymore, use different ways to use functions
 - want to have an output file, filter data
 
 
-Latest Update (Decemeber 2, 2020):
+### Latest Update (Decemeber 2, 2020):
 - How do I add my charts and plots from Jupyter notebooks to my website? 
    - Thinking about saving plots as images and uploading them on the website 
 - since using pandas, a lot of previously written functions are not needed anymore, use different ways to use functions
@@ -73,6 +73,11 @@ Latest Update (Decemeber 2, 2020):
 Plan for December 6, 2020:
 - Work on the data analysis part: own code and working with pandas
 - html forms? filter function when the user asks for some information?
+
+### Latest Update (December 11, 2020):
+-Successfully completed the filter function, unable to connect it to HTML
+
+
 
 ## Winter Break and 2021 Plans
 

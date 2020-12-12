@@ -32,6 +32,15 @@ def main():
             '4. Search by Gender\n')
 
             option = int(input("Option:\n "))
+
+            if option == 1:
+                date.searchbydate()
+            elif option == 2:
+                age.searchbyage()
+            elif option == 3:
+                region.searchbyregion()
+            elif option == 4:
+                gender.searchbygender()
         else:
             exit
 
