@@ -93,7 +93,7 @@ Source of dataset collection:
 
 ### Experience:
 -I have not been able to achieve what I want to but it is a start, a foot in the right direction
-**Always remember, it is worth doing things badly at first then not doing it at all since "the fool is the precursor to the master"**
+**Always remember, it is worth doing things badly at first than not doing it at all since "the fool is the precursor to the master"**
 
 ## Winter Break and 2021 Plans
 *- What do need to do to make a predictive model, right now have a static data, eventually want something like a pivot table that a user can play with*
