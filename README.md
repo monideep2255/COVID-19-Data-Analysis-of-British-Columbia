@@ -70,7 +70,7 @@ Source of dataset collection:
 - Lastly, upload entire merged data (csv file) on the website that is for future purposes
 - GOAL OF PROJECT: Able to use what is learnt in the course CS5001 and start something, not perfect it, **BE REALISTIC**
 
-### Plan for December 6, 2020:
+### Plan for (December 6, 2020):
 - Work on the data analysis part: own code and working with pandas
 - html forms? filter function when the user asks for some information?
 
@@ -93,7 +93,7 @@ Source of dataset collection:
 
 ### Experience:
 -I have not been able to achieve what I want to but it is a start, a foot in the right direction
-**Always remember, it is worth doing things badly at first than not doing it at all since "the fool is the precursor to the master"**
+**Always remember, it is worth doing things badly at first than not doing it at all since "the fool is the precursor to the master."**
 
 ## Winter Break and 2021 Plans
 *- What do need to do to make a predictive model, right now have a static data, eventually want something like a pivot table that a user can play with*
