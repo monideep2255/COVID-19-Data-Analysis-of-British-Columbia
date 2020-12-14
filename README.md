@@ -70,7 +70,7 @@ Source of dataset collection:
 - Lastly, upload entire merged data (csv file) on the website that is for future purposes
 - GOAL OF PROJECT: Able to use what is learnt in the course CS5001 and start something, not perfect it, **BE REALISTIC**
 
-Plan for December 6, 2020:
+### Plan for December 6, 2020:
 - Work on the data analysis part: own code and working with pandas
 - html forms? filter function when the user asks for some information?
 
@@ -88,6 +88,7 @@ Plan for December 6, 2020:
 ### Latest Update (December 13, 2020):
 -Successfully filtered datasets, do not need pandas
 -decision tree using recursion built for CS5002 project
+-images still a headache for the presentation: have screenshot and preloaded website
 
 ## Winter Break and 2021 Plans
 *- What do need to do to make a predictive model, right now have a static data, eventually want something like a pivot table that a user can play with*
