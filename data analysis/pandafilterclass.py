@@ -1,9 +1,18 @@
 import csv
+import os
 
 class Files:
-    #comments
+    #Class Files
+    #Attributes: filename, column to filter, 4 rows to be deleted
+    #method: making smaller files
 
     def __init__(self, filename, col, row1, row2, row3, row4):
+        #constructor: create a new instance of file
+        #parameter:
+        #self: the current object
+        #col: column to filter
+        #row(1-4): rows to be deleted
+
         self.file = filename
         self.col = col
         self.row1 = row1
@@ -12,27 +21,37 @@ class Files:
         self.row4 = row4
 
     def makefiles(self):
-        #function
-        #parameter
-        #return
+        #method: write to a new file
+        #parameter:
+        #self: the current object
+        
+        try:
 
-        with open('datasets/BCCase_Details.csv','r') as csvfile:
 
-            csvfilereader = csv.DictReader(csvfile)
-            #dictionary can help solve the problem, change it from csv to dict!
+            with open('datasets/BCCase_Details.csv','r') as csvfile:
 
-            with open(self.file,'w', newline='') as new_file:
-                col = ['Covid_Cases',self.col]
-                csv_writer = csv.DictWriter(new_file, fieldnames= col)
+                csvfilereader = csv.DictReader(csvfile)
+                #dictionary can help solve the problem, changed it from csv to dict!
 
-                csv_writer.writeheader()
+                with open(self.file,'w', newline='') as new_file:
+                    col = ['Covid_Cases',self.col]
+                    csv_writer = csv.DictWriter(new_file, fieldnames= col)
 
-                for row in csvfilereader:
-                    del row[self.row1]
-                    del row[self.row2]
-                    del row[self.row3]
-                    del row[self.row4]
-                    csv_writer.writerow(row)
+                    csv_writer.writeheader()
+
+                    for row in csvfilereader:
+                        del row[self.row1]
+                        del row[self.row2]
+                        del row[self.row3]
+                        del row[self.row4]
+                        csv_writer.writerow(row)
+
+        except PermissionError:
+            print("You do not have permission to use that file")
+        except OSError:
+            print("Something happened while writing to the file", csvfile)
+        except FileNotFoundError:
+            print('File not found')
 
 
 def main():
@@ -44,6 +63,7 @@ def main():
     place.makefiles()
     timeseries = Files('datasets/filtertimeseries1.csv','Reported_Date','Place', 'Sex', 'Age_Group', 'Classification_Reported')
     timeseries.makefiles()
-
-if __name__ == '__main__':
+    
+#special syntax to be able to call the class in the same module
+if __name__ == '__main__': 
     main()

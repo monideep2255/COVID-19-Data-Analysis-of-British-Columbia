@@ -85,8 +85,11 @@ Plan for December 6, 2020:
   - make list of course topics covered
   - libraries covered
 
-## Winter Break and 2021 Plans
+### Latest Update (December 13, 2020):
+-Successfully filtered datasets, do not need pandas
+-decision tree using recursion built for CS5002 project
 
+## Winter Break and 2021 Plans
 *- What do need to do to make a predictive model, right now have a static data, eventually want something like a pivot table that a user can play with*
    *- sample website: IHME covid-19 website*
    *- Predictive model out of scope right now for the next two weeks, presentation on Decmeber 16*

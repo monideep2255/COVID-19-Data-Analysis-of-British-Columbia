@@ -1,9 +1,16 @@
-import region 
+import region #main page of the filter function
 import age 
 import date
 import gender
 
+#made the decision to make this program modular since:
+#modularity makes the program more efficient and easy to understand
+#easy for debugging and modifying purposes
+
 def main():
+    #function: main
+    #parameters: none
+    #return: home page to filter the dataset based on different options
 
     try:
         print('0. Quit\n'
@@ -50,7 +57,7 @@ def main():
         raise TypeError('The number must be an integer')
 
     
-    #comment that while was not used since it was creating a loop
+#initally had plans to use the while loop but had trouble getting out of the loop
     #while option < 0 or option > 5:
         #print("Invalid option")
             
@@ -62,8 +69,5 @@ def main():
             #'4. Search by Gender\n'
             #'5. Search between dates')
         #option = int(input("Option:\n "))
-            
-
-    
-    
+              
 main()

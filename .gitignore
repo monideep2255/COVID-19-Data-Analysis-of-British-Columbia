@@ -1,1 +1,5 @@
 venv
+
+#I have created a virtual environment where all my packages are stored
+#basic organization
+#this does is ignore the unnecessary files

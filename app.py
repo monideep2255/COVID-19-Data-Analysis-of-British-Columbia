@@ -1,6 +1,8 @@
 from flask import Flask, render_template, jsonify, request
 from flask_bootstrap import Bootstrap
 
+#main page for the flask webframe
+#place where my backend python functions will be connected to the frontend HTML docs
 
 app = Flask(__name__)
 
