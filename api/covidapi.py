@@ -15,16 +15,14 @@ def covid_real_time():
     try: #defensive coding (asking forgiveness)
         
         response = requests.get(url)
-
-    except HTTPError: #raising API specific error
-        print('Unable to connect to API')
         
-    try:
         #json format is the standard accepted format for reading API's
         #works similar to a python dictionary (key-value pairs)
         #makes it way easier to use API
         data = response.json() 
 
+    except HTTPError: #raising API specific error
+        print('Unable to connect to API')        
     except json.decoder.JSONDecodeError:
         print('Error extracting json data from API. Loading file...')
         with open('datasets/coronavirus_COVID-19_cases.csv') as csvfile:
@@ -39,10 +37,10 @@ def covid_real_time():
         deaths = (data['deaths']['value'])
         update = (data['lastUpdate'])
 
-        print('The number of active cases in Canada are: ', confirmed)
-        print('The number of recovered cases in Canada are: ', recovered)
-        print('The number of deaths in Canada are: ', deaths)
-        print('Latest Update: ', update)
+        print('The number of active cases in Canada are:\n ', confirmed)
+        print('The number of recovered cases in Canada are:\n ', recovered)
+        print('The number of deaths in Canada are:\n ', deaths)
+        print('Latest Update:\n ', update)
        
 
 covid_real_time()

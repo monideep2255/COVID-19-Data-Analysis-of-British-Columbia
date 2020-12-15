@@ -91,6 +91,12 @@ Source of dataset collection:
 -images still a headache for the presentation: have screenshot and preloaded website
 -finally done with the code, only powerpoint slides left
 
+### Final Updates (December 15, 2020):
+-fixed the issue in main.py for the filter function
+-reviewed my defensive coding
+-focus now on powepoint
+-code freeze: done for the year 2020
+
 ### Experience:
 -I have not been able to achieve what I want to but it is a start, a foot in the right direction
 **Always remember, it is worth doing things badly at first than not doing it at all since "the fool is the precursor to the master."**

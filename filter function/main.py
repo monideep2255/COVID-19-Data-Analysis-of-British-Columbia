@@ -31,7 +31,7 @@ def main():
             gender.searchbygender()
 
         ask = input('Do you want to perform any more searches (Y/N)?')
-        if ask == 'Y':
+        while ask != 'N':
             print('0. Quit\n'
             '1. Search by Date\n'
             '2. Search by Age\n'
@@ -48,8 +48,11 @@ def main():
                 region.searchbyregion()
             elif option == 4:
                 gender.searchbygender()
-        else:
-            exit
+
+            ask = input('Do you want to perform any more searches (Y/N)?')
+        #earlier had an if statement which only asked the user once
+        #for the the search
+        #while loop helped solve the problem
 
         
     except:
