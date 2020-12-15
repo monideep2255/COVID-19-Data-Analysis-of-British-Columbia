@@ -86,29 +86,29 @@ Source of dataset collection:
   - libraries covered
 
 ### Latest Update (December 13, 2020):
--Successfully filtered datasets, do not need pandas
--decision tree using recursion built for CS5002 project
--images still a headache for the presentation: have screenshot and preloaded website
--finally done with the code, only powerpoint slides left
+- Successfully filtered datasets, do not need pandas
+- decision tree using recursion built for CS5002 project
+- images still a headache for the presentation: have screenshot and preloaded website
+- finally done with the code, only powerpoint slides left
 
 ### Final Updates (December 15, 2020):
--fixed the issue in main.py for the filter function
--reviewed my defensive coding
--focus now on powepoint
--code freeze: done for the year 2020
+- fixed the issue in main.py for the filter function
+- reviewed my defensive coding
+- focus now on powepoint
+- code freeze: done for the year 2020
 
 ### Experience:
--I have not been able to achieve what I want to but it is a start, a foot in the right direction
+- I have not been able to achieve what I want to but it is a start, a foot in the right direction
 **Always remember, it is worth doing things badly at first than not doing it at all since "the fool is the precursor to the master."**
 
 ## Winter Break and 2021 Plans
-*- What do need to do to make a predictive model, right now have a static data, eventually want something like a pivot table that a user can play with*
-   *- sample website: IHME covid-19 website*
-   *- Predictive model out of scope right now for the next two weeks, presentation on Decmeber 16*
-   *- Plan to learn it over the winter break!*
-   *- Carry out the prject over the next year*
-   *- Will be able to add the vaccine implementation as well in the future*
-   *- Learn about the ML from fast ai*
+* - What do need to do to make a predictive model, right now have a static data, eventually want something like a pivot table that a user can play with*
+   * - sample website: IHME covid-19 website *
+   * - Predictive model out of scope right now for the next two weeks, presentation on Decmeber 16 *
+   * - Plan to learn it over the winter break! *
+   * - Carry out the prject over the next year *
+   * - Will be able to add the vaccine implementation as well in the future *
+   * - Learn about the ML from fast ai *
 
 
 
