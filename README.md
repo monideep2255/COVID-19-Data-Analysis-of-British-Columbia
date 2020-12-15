@@ -102,13 +102,13 @@ Source of dataset collection:
 **Always remember, it is worth doing things badly at first than not doing it at all since "the fool is the precursor to the master."**
 
 ## Winter Break and 2021 Plans
-* - What do need to do to make a predictive model, right now have a static data, eventually want something like a pivot table that a user can play with*
-   * - sample website: IHME covid-19 website *
-   * - Predictive model out of scope right now for the next two weeks, presentation on Decmeber 16 *
-   * - Plan to learn it over the winter break! *
-   * - Carry out the prject over the next year *
-   * - Will be able to add the vaccine implementation as well in the future *
-   * - Learn about the ML from fast ai *
+- What do need to do to make a predictive model, right now have a static data, eventually want something like a pivot table that a user can play with
+   - sample website: IHME covid-19 website 
+   - Predictive model out of scope right now for the next two weeks, presentation on Decmeber 16 
+   - Plan to learn it over the winter break! 
+   - Carry out the prject over the next year 
+   - Will be able to add the vaccine implementation as well in the future 
+   - Learn about the ML from fast ai 
 
 
 
