@@ -37,7 +37,7 @@ def covid_real_time():
         deaths = (data['deaths']['value'])
         update = (data['lastUpdate'])
 
-        print('The number of active cases in Canada are:\n ', confirmed)
+        print('The number of confirmed cases in Canada are:\n ', confirmed)
         print('The number of recovered cases in Canada are:\n ', recovered)
         print('The number of deaths in Canada are:\n ', deaths)
         print('Latest Update:\n ', update)
