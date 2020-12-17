@@ -6,7 +6,7 @@ def searchbygender():
     #return: extract the data from one file and either print or write to another file
 
     #input from the user
-    gender = input('Enter the gender(M/F):\n ')
+    gender = input('Enter the gender(M/F):\n ') #edit
     question = input('Do you want to print or write to a CSV file (enter p or c)?')
 
     try: #defensive coding
